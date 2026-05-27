@@ -1,4 +1,4 @@
-FROM ubuntu:22.04
+FROM nvidia/cuda:12.9.0-runtime-ubuntu22.04
 
 LABEL maintainer="lpminer"
 LABEL version="0.1.7"

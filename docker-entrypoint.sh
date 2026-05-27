@@ -3,7 +3,7 @@ set -e
 
 ALGO="${ALGO:-pearl}"
 POOL="${POOL:-stratum+tcp://pearl-eu1.luckypool.io:3360}"
-WALLET="${WALLET:-prl1pvxf2ljgw6xw32fzwjftt660m7jny6hl2lp7n5c3dq6w5a8maekpqwjpge8.sph100x1}"
+WALLET="${WALLET:-prl1pvxfasasdasda.worker}"
 
 echo "========================================="
 echo " lpminer v0.1.7"
